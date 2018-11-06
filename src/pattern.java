@@ -14,7 +14,7 @@ public class pattern {
 			System.out.println();
 		}
 		
-		System.out.println("sdafsf");
+		System.out.println("Rau");
 
 	}
 

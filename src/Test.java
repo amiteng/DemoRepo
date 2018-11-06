@@ -14,6 +14,8 @@ public class Test {
 		int c = a+b;
 		
 		System.out.println(c);
+		
+		System.out.println("This is amit");
 
 	}
 
